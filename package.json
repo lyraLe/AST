@@ -1,0 +1,27 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "description": "ast lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lyra",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^3.22.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-import": "^1.12.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-types": "^6.26.0",
+    "escodegen": "^1.12.0",
+    "esprima": "^4.0.1",
+    "estraverse": "^4.3.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  }
+}
